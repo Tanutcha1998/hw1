@@ -17,10 +17,11 @@
 2. ทำการติดตั้ง Miniconda
 ![](2.png)
 3.	เมื่อติดตั้ง Miniconda เสร็จสิ้นแล้วให้ทำการเปลี่ยนภาษาของเครื่องเป็น English(United Staes) 
-![](3.png)
-    -	Control Panal > Region > Administrative > Chage system locale
+![](3.png) 
+-   Control Panal > Region > Administrative > Chage system locale
+
 ![](4.png)
-    -	เปลี่ยนภาษาเป็น English(United Staes) แล้วกด OK จากนั้นทำการ Restart เครื่อง
+-   เปลี่ยนภาษาเป็น English(United Staes) แล้วกด OK จากนั้นทำการ Restart เครื่อง
 4.	ทำการสร้าง Folder ใหม่ในการเก็บไฟล์งานของ Python เพื่อให้เก็บงานได้เป็นระเบียบและหาได้ง่าย
 ![](5.png)
 5.	คัดลอกที่อยู่ของ Folder โดยการคลิกที่แถบที่อยู่ 1 ครั้ง แล้วกด Ctrl + C
